@@ -1,8 +1,6 @@
 ---
 # FAQ Accordion — Frontend Mentor
 
-![Design preview for the FAQ accordion coding challenge](design/desktop-design.jpg)
-
 ## Overview
 
 This repository contains my implementation of the Frontend Mentor "FAQ accordion" challenge. The goal is to build a responsive, accessible accordion that matches the provided design (see `/design`).
@@ -18,12 +16,8 @@ Users should be able to:
 
 ### Links
 
-- Solution (this repo): https://github.com/your-username/faq-accordion
-- Live site: https://your-live-site-url.com
-
-## Screenshot
-
-Add a screenshot of your finished solution to `/screenshot.jpg` and update the image above. The `/design` folder contains `mobile-design.jpg` and `desktop-design.jpg` for reference.
+- Solution (FAQ Accordion): https://github.com/Abel-V-Pereira/faq-accordion-main
+- Live site: https://abel-v-pereira.github.io/faq-accordion-main/
 
 ## Built with
 
@@ -61,11 +55,10 @@ Or use VS Code's Live Server extension and open the folder.
 
 ## Author
 
-- Your Name — https://your-website.example
-- Frontend Mentor — [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor — [@Abel-V-Pereira](https://www.frontendmentor.io/profile/Abel-V-Pereira)
 
 ## Acknowledgments
 
-Thanks to Frontend Mentor for the challenge and design assets. Use the `/design` images as a visual guide when matching spacing and colors.
+Thanks to Frontend Mentor for the challenge and design assets.
 
 ---
