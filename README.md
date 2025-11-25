@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository contains my implementation of the Frontend Mentor "FAQ accordion" challenge. The goal is to build a responsive, accessible accordion that matches the provided design (see `/design`).
+This repository contains my implementation of the Frontend Mentor "FAQ accordion" challenge. The goal is to build a responsive, accessible accordion that matches the provided design.
 
 ### The challenge
 
